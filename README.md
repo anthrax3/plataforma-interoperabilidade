@@ -1,4 +1,6 @@
-# Plataforma de Interoperabilidade
+# Plataforma de Interoperabilidade 
+[![Atualização do projeto](https://badge.waffle.io/govbr/plataforma-interoperabilidade.svg?label=em%20progresso&title=Projeto)](http://waffle.io/govbr/plataforma-interoperabilidade)
+
 Projeto de Plataforma de Interoperabilidade do Governo Federal
 
 Documentação do projeto constante também no GepNET da STI
