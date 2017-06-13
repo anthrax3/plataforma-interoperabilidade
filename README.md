@@ -4,7 +4,7 @@
 Projeto de Plataforma de Interoperabilidade do Governo Federal
 
 Documentação do projeto constante também no GepNET da STI
-## Justificatifa do Projeto
+## Justificativa do Projeto
 
 Atualmente o órgão, para prestação de serviço público, exige que o cidadão apresente uma ampla documentação com dados já existentes nas bases do governo federal. Todo o custo logístico, além da dificuldade e o tempo gasto para obter alguns documentos, fica a cargo do cidadão.
 O projeto visa disponibilizar para os órgãos uma plataforma de interoperabilidade para que não seja necessária a peregrinação do cidadão entre diversos órgãos para obtenção de documentação exigida na prestação de um serviço público.
